@@ -56,5 +56,9 @@
 				}
 
 			})
-    
+		
+
+			AOS.init({
+				duration: 600,
+			  })
         })//end ready
